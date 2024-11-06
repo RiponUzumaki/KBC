@@ -1,3 +1,4 @@
+#This is a KBC game. 
 name = input("Enter your name: ")
 print(name)
 print("Answer the right question.")
